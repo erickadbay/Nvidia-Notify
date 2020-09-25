@@ -26,11 +26,14 @@ urlKeyWords = {
     "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3080/" : ("Out Of Stock", False, True, 'Nvidia'),
     "https://www.evga.com/products/productlist.aspx?type=0&family=GeForce+30+Series+Family&chipset=RTX+3080" : ("AddCart", True, False, 'EVGA'),
     # "https://www.evga.com/products/productlist.aspx?type=0&family=GeForce+16+Series+Family&chipset=GTX+1650+Super" : ("AddCart", True, False, 'EVGATest'),
-    "https://www.newegg.com/p/pl?d=rtx+3080&N=100007709%20601357247" : ("Add to cart", True, False, 'Newegg'),
-    "https://www.bhphotovideo.com/c/search?q=3080&filters=fct_category%3Agraphic_cards_6567" : ("Add to Cart", True, False, 'BandH'),
-    "https://www.bestbuy.com/site/searchpage.jsp?st=3080" : ("cart.svg", True, True, "BestBuy"),
+    # "https://www.newegg.com/p/pl?d=rtx+3080&N=100007709%20601357247" : ("Add to cart", True, False, 'Newegg'),
+    "https://www.newegg.ca/p/pl?d=rtx+3080&N=100007708&name=Desktop+Graphics+Cards" : ("Add to cart", True, False, 'Newegg'),
+    # "https://www.bhphotovideo.com/c/search?q=3080&filters=fct_category%3Agraphic_cards_6567" : ("Add to Cart", True, False, 'BandH'),
+    # "https://www.bestbuy.com/site/searchpage.jsp?st=3080" : ("cart.svg", True, True, "BestBuy"),
     # "https://www.bestbuy.com/site/searchpage.jsp?st=tv" : ("cart.svg", True, True, "BestBuyTest")
-    "https://www.amazon.com/stores/page/6B204EA4-AAAC-4776-82B1-D7C3BD9DDC82?ingress=0" : (">Add to Cart<", True, False, 'Amazon')
+    # "https://www.amazon.com/stores/page/6B204EA4-AAAC-4776-82B1-D7C3BD9DDC82?ingress=0" : (">Add to Cart<", True, False, 'Amazon'),
+    "https://www.amazon.ca/stores/GeForce/RTX3080_GEFORCERTX30SERIES/page/6B204EA4-AAAC-4776-82B1-D7C3BD9DDC82" : (">Add to Cart<", True, False, 'Amazon'),
+    "https://www.canadacomputers.com/search/results_details.php?language=en&keywords=rtx+3080" : ("Add to Cart", True, False, 'Canada Computers')
     # "https://store.asus.com/us/item/202009AM160000001" : (">Buy Now<", True, False, 'ASUS')
 }
 
